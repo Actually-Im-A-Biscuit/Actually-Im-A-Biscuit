@@ -1,4 +1,10 @@
-### Hi there 👋
+Hi! You can call me Biscuit, and use She/Her/Hers for my pronouns :D <br>
+I am currently working on a <code>C++</code> program to read solve display and save sudoku boards <br>
+As well as another <code>C++</code> program attempting use a genetical algorithm to get a decent solution to the TSP, in the edge case that all the locations have a direct path to eachother <br>
+The Programming languages I know are <code>C++</code> and <code>C#</code>, as well as some basic <code>HTML</code>, <code>CSS</code>, <code>Java Script</code> and <code>Jquerey</code> <br>
+I am currently learning <code>Java</code>, and will be learning <code>Python</code> next <br>
+I am currently a senior in high school <br>
+I made it to the national level BPA (Buisness Professionals of America) copetition for <code>C++</code><br>
 
 <!--
 **Actually-Im-A-Biscuit/Actually-Im-A-Biscuit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
